@@ -67,7 +67,12 @@
   "deckFileType": "txt",
   "deckPlayCards": [],
   "deckSharePreference": "share",
-  "deckUrls": [],
+  "deckUrls": [
+    {
+      "name": "Kass Irma",
+      "url": "https://raw.githubusercontent.com/Eclypse57/Furchill/refs/heads/main/decks/Kass%20irma.txt"
+    }
+],
   "enums": [],
   "extras": [],
   "gameBoardImageFileType": "png",
