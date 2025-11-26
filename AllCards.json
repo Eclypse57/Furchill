@@ -2756,6 +2756,9 @@
         "value": ""
       }
     },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
   {
     "id": "Unité_Shaya_le_farceur",
     "name": "Unité Shaya le farceur",
