@@ -2737,6 +2737,26 @@
     "backFaceId": ""
   },
   {
+    "id": "Unité_Fibolapin_le_voyageur",
+    "name": "Unité Fibolapin le voyageur",
+    "setCode": "Furrchill",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+  {
     "id": "Unité_Shaya_le_farceur",
     "name": "Unité Shaya le farceur",
     "setCode": "Furrchill",
