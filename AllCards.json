@@ -2827,5 +2827,465 @@
     },
     "isBackFaceCard": false,
     "backFaceId": ""
+  },
+  {
+    "id": "Attaque+1",
+    "name": "Attaque+1",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "Attaque+3",
+    "name": "Attaque+3",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "Attaque+5",
+    "name": "Attaque+5",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "Attaque-1",
+    "name": "Attaque-1",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "Attaque-3",
+    "name": "Attaque-3",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "Attaque-5",
+    "name": "Attaque-5",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "PV+1",
+    "name": "PV+1",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "PV+3",
+    "name": "PV+3",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "PV+5",
+    "name": "PV+5",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "PV-1",
+    "name": "PV-1",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "PV-3",
+    "name": "PV-3",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "PV-5",
+    "name": "PV-5",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "Jeton1Bleu",
+    "name": "Jeton 1 Bleu",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "Jeton1Jaune",
+    "name": "Jeton 1 Jaune",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "Jeton1Rouge",
+    "name": "Jeton 1 rouge",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "Jeton2Bleu",
+    "name": "Jeton 2 Bleu",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "Jeton2Jaune",
+    "name": "Jeton 2 Jaune",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "Jeton2Rouge",
+    "name": "Jeton 2 rouge",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "JetonAttaque",
+    "name": "Jeton d'attaque",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "Disclamer",
+    "name": "Disclamer",
+    "setCode": "Tokens",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
   }
 ]
