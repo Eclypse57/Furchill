@@ -2001,29 +2001,6 @@
     "backFaceId": ""
   },
   {
-    "id": "Unité_Manieur_de_Sabre",
-    "name": "Unité Manieur de sabre",
-    "setCode": "Kommu",
-    "properties": {
-      "description": {
-        "def": {
-          "name": "description",
-          "type": "string",
-          "display": "Description",
-          "displayEmpty": "",
-          "displayEmptyFirst": false,
-          "delimiter": "",
-          "backName": "",
-          "frontName": "",
-          "properties": []
-        },
-        "value": ""
-      }
-    },
-    "isBackFaceCard": false,
-    "backFaceId": ""
-  },
-  {
     "id": "Unité_Danatos_le_scientifique",
     "name": "Unité Danatos le scientifique",
     "setCode": "Kommu",
@@ -2737,29 +2714,6 @@
     "backFaceId": ""
   },
   {
-    "id": "Unité_Fibolapin_le_voyageur",
-    "name": "Unité Fibolapin le voyageur",
-    "setCode": "Furrchill",
-    "properties": {
-      "description": {
-        "def": {
-          "name": "description",
-          "type": "string",
-          "display": "Description",
-          "displayEmpty": "",
-          "displayEmptyFirst": false,
-          "delimiter": "",
-          "backName": "",
-          "frontName": "",
-          "properties": []
-        },
-        "value": ""
-      }
-    },
-    "isBackFaceCard": false,
-    "backFaceId": ""
-  },
-  {
     "id": "Unité_Shaya_le_farceur",
     "name": "Unité Shaya le farceur",
     "setCode": "Furrchill",
@@ -2831,6 +2785,29 @@
   {
     "id": "Unité_Yrakell_l'éclaireur",
     "name": "Unité Yrakell l'éclaireur",
+    "setCode": "Furrchill",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "Unité_Fibolapin_le_voyageur",
+    "name": "Unité Fibolapin le voyageur",
     "setCode": "Furrchill",
     "properties": {
       "description": {
