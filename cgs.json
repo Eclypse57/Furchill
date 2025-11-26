@@ -21,7 +21,7 @@
   "autoUpdate": 1,
   "autoUpdateUrl": "https://raw.githubusercontent.com/Eclypse57/Furchill/main/cgs.json",
   "bannerImageFileType": "png",
-  "bannerImageUrl": null,
+  "bannerImageUrl": "https://raw.githubusercontent.com/Eclypse57/Furchill/main/CardBack.png",
   "cardBackFaceImageUrls": [],
   "cardBackImageFileType": "png",
   "cardBackImageUrl": "https://raw.githubusercontent.com/Eclypse57/Furchill/main/CardBack.png",
