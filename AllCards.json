@@ -2829,7 +2829,7 @@
     "backFaceId": ""
   },
   {
-    "id": "Attaque+1",
+    "id": "Attaque1",
     "name": "Attaque+1",
     "setCode": "Tokens",
     "properties": {
@@ -2852,7 +2852,7 @@
     "backFaceId": ""
   },
   {
-    "id": "Attaque+3",
+    "id": "Attaque3",
     "name": "Attaque+3",
     "setCode": "Tokens",
     "properties": {
@@ -2875,7 +2875,7 @@
     "backFaceId": ""
   },
   {
-    "id": "Attaque+5",
+    "id": "Attaque5",
     "name": "Attaque+5",
     "setCode": "Tokens",
     "properties": {
@@ -2967,7 +2967,7 @@
     "backFaceId": ""
   },
   {
-    "id": "PV+1",
+    "id": "PV1",
     "name": "PV+1",
     "setCode": "Tokens",
     "properties": {
@@ -2990,7 +2990,7 @@
     "backFaceId": ""
   },
   {
-    "id": "PV+3",
+    "id": "PV3",
     "name": "PV+3",
     "setCode": "Tokens",
     "properties": {
@@ -3013,7 +3013,7 @@
     "backFaceId": ""
   },
   {
-    "id": "PV+5",
+    "id": "PV5",
     "name": "PV+5",
     "setCode": "Tokens",
     "properties": {
