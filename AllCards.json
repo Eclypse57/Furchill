@@ -2827,7 +2827,30 @@
     },
     "isBackFaceCard": false,
     "backFaceId": ""
-  },
+  },,
+  {
+    "id": "Unité_Rhaiden_ange_de_humanité",
+    "name": "Unité Rhaiden ange de l'humanité",
+    "setCode": "Furrchill",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  }
   {
     "id": "Jeton1Bleu",
     "name": "Jeton 1 Bleu",
