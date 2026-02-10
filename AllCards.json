@@ -2135,6 +2135,26 @@
         "value": ""
       }
     },
+  {
+    "id": "Unité_Manieur_De_Sabre",
+    "name": "Unité Soldat de la liberation",
+    "setCode": "Kommu",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    }
     "isBackFaceCard": false,
     "backFaceId": ""
   },
