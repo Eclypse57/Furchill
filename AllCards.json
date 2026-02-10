@@ -2139,8 +2139,8 @@
     "backFaceId": ""
   },
   {
-    "id": "Unité_Manieur_De_Sabre",
-    "name": "Unité Soldat de la liberation",
+    "id": "Unité_Manieur_de_Sabre",
+    "name": "Unité Manieur de sabre",
     "setCode": "Kommu",
     "properties": {
       "description": {
@@ -2157,7 +2157,7 @@
         },
         "value": ""
       }
-    }
+    },
     "isBackFaceCard": false,
     "backFaceId": ""
   },
