@@ -2135,6 +2135,9 @@
         "value": ""
       }
     },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
   {
     "id": "Unité_Manieur_De_Sabre",
     "name": "Unité Soldat de la liberation",
