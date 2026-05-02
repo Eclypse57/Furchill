@@ -115,6 +115,52 @@
     "backFaceId": ""
   },
   {
+    "id": "SortInfestation",
+    "name": "Sort Infestation",
+    "setCode": "Plague",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "SortObjetReliqueIsora",
+    "name": "Sort Objet Relique d'Isora",
+    "setCode": "Plague",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
     "id": "Terrain_Agraash",
     "name": "Terrain Agraash",
     "setCode": "Plague",
@@ -552,6 +598,29 @@
     "backFaceId": ""
   },
   {
+    "id": "TerrainCoeurDeLaNature",
+    "name": "Terrain Coeur de la nature",
+    "setCode": "Campfire",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
     "id": "Sort_Sursaut_d'héroïsme",
     "name": "Sort Sursaut d'héroïsme",
     "setCode": "Campfire",
@@ -667,6 +736,29 @@
     "backFaceId": ""
   },
   {
+    "id": "SortCarnage",
+    "name": "Sort Carnage",
+    "setCode": "Campfire",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
     "id": "Sort_Assimilation",
     "name": "Sort Assimilation",
     "setCode": "Aldoria",
@@ -761,6 +853,29 @@
   {
     "id": "Sort_Saturation_ether",
     "name": "Sort Saturation ether",
+    "setCode": "Aldoria",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "SortLivreDeMagieNoire",
+    "name": "Sort Livre de magie noire",
     "setCode": "Aldoria",
     "properties": {
       "description": {
@@ -1012,6 +1127,29 @@
     "backFaceId": ""
   },
   {
+    "id": "UnitéWarfang",
+    "name": "Unité Warfang",
+    "setCode": "Aldoria",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
     "id": "Sort_Dètes_interdimentionnelles",
     "name": "Sort Dètes interdimentionnelles",
     "setCode": "Bordemondes",
@@ -1150,6 +1288,29 @@
     "backFaceId": ""
   },
   {
+    "id": "SortTransfusion",
+    "name": "Sort Transfusion",
+    "setCode": "Bordemondes",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
     "id": "Terrain_Grande_lune_éthérée",
     "name": "Terrain Grande lune éthérée",
     "setCode": "Bordemondes",
@@ -1175,6 +1336,29 @@
   {
     "id": "Terrain_La_ville_du_nord",
     "name": "Terrain La ville du nord",
+    "setCode": "Bordemondes",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "TerrainAgravahDélugeDArcanes",
+    "name": "Terrain Agravah Déluge d'arcanes",
     "setCode": "Bordemondes",
     "properties": {
       "description": {
@@ -1428,6 +1612,29 @@
   {
     "id": "Unité_être_de_la_brume",
     "name": "Unité être de la brume",
+    "setCode": "Bordemondes",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "UnitéCréatureCorrompue",
+    "name": "Créature corrompue",
     "setCode": "Bordemondes",
     "properties": {
       "description": {
@@ -1817,6 +2024,98 @@
     "backFaceId": ""
   },
   {
+    "id": "UnitéGuntherLeJeuneDragon",
+    "name": "Unité Gunther le jeune dragon",
+    "setCode": "Eveillé",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "UnitéSeigneurArdaïn",
+    "name": "Unité Seigneur Ardaïn",
+    "setCode": "Eveillé",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "UnitéSerpentSquelette",
+    "name": "Unité Serpent squelette",
+    "setCode": "Eveillé",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "UnitéTarihLeVRAIVoleur",
+    "name": "Unité Tarih le VRAI voleur",
+    "setCode": "Eveillé",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
     "id": "Sort_Baroud_d'honneur",
     "name": "Sort Baroud d'honneur",
     "setCode": "Kommu",
@@ -2141,6 +2440,52 @@
   {
     "id": "Unité_Manieur_de_Sabre",
     "name": "Unité Manieur de sabre",
+    "setCode": "Kommu",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "UnitéAzurLeReclamateur",
+    "name": "Unité Azur le réclamateur",
+    "setCode": "Kommu",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "UnitéDrone",
+    "name": "Unité Drone 5A73M",
     "setCode": "Kommu",
     "properties": {
       "description": {
@@ -3176,6 +3521,29 @@
   {
     "id": "Unité_Rhaiden_ange_de_humanité",
     "name": "Unité Rhaiden, ange de l'humanité",
+    "setCode": "Furrchill",
+    "properties": {
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Description",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "backName": "",
+          "frontName": "",
+          "properties": []
+        },
+        "value": ""
+      }
+    },
+    "isBackFaceCard": false,
+    "backFaceId": ""
+  },
+  {
+    "id": "UnitéOrchestreFurchill",
+    "name": "Unité Orchestre Furchill",
     "setCode": "Furrchill",
     "properties": {
       "description": {
